@@ -29,11 +29,3 @@ This project presents a real-time underwater object detection system using **Con
 - High performance in diverse underwater conditions
 
 ---
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/BrundhaSithan/underwater-object-detection-CNN.git
-cd underwater-object-detection-CNN
-pip install -r requirements.txt
-python app/app.py
